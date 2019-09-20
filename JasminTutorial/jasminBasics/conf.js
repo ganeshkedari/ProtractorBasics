@@ -21,7 +21,7 @@ exports.config = {
   
   // Spec patterns are relative to the current working directory when
   // protractor is called.
-  specs: ['promisesExample.js']
+  specs: ['jasminBasics.js']
 
   
 };
