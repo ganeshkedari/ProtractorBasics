@@ -21,7 +21,7 @@ exports.config = {
   
   // Spec patterns are relative to the current working directory when
   // protractor is called.
-  specs: ['nonAngular.js']
+  specs: ['*.js']
 
   
 };
